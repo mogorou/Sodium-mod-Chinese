@@ -1,0 +1,59 @@
+
+部分中译文取自 OptiFine 和 Minecraft，特别感谢原翻译人员的无私奉献。
+=====================================================================
+[ General 常规 ]        Quality 品质            Advanced 高级
+————————————————————————————————————————————————
+View Distance 渲染距离（ 2 ~ 32 ）                2 Chunks —— 2 最近 ~ 32 Chunks —— 32 极远
+Brightness 亮度（ 0% ~ 100% ）                Moody 昏暗 ~ Bright 明亮
+Clouds 云    （ 复选框：填充 / 未填充 ）                填充 ( 打开 ) / 未填充 ( 关闭 )
+————————————————————————————————————————————————
+GUI Scale 界面尺寸（ 0 ~ 4 ）                    0 x —— Auto 自动 / 1 x —— 小 / 2 x —— 中 / 3 x —— 大
+Fullscreen 全屏（ 复选框：填充 / 未填充 ）            填充 ( 开 ) / 未填充 ( 关 )
+V - Sync 垂直同步（ 复选框：填充 / 未填充 ）            填充 ( 开 ) / 未填充 ( 关 )
+FPS Limit 最大帧率（ 5 ~ 260 ）                5 FPS —— 5 帧每秒 ~ 255 FPS —— 255 帧每秒，260 = Unlimited 无限制
+————————————————————————————————————————————————
+View Bobbing 视角摇晃（ 复选框：填充 / 未填充 ）        填充 ( 开 ) / 未填充 ( 关 )
+Attack Indicator 攻击指示器（ C. / H. / O. ）            Crosshair 十字准星 / Hotbar 快捷栏 / OFF 关闭
+=====================================================================
+General 常规        [ Quality 品质 ]            Advanced 高级
+————————————————————————————————————————————————
+Graphics Quality 图像品质（ F. / F. / F. ）            Fast 流畅 / Fancy 高品质 / Fabulous 极佳
+————————————————————————————————————————————————
+Clouds Quality 云（ F. / D. / F. ）                Fast 流畅 / Default 默认 / Fancy 高品质
+Weather Quality 雨雪（ F. / D. / F.  ）                Fast 流畅 / Default 默认 / Fancy 高品质
+
+Particle Quality 颗粒效果（ L. / H. / M. ）            Low 最少 / High 全部 / Medium 少量
+（或）Particle Quality 粒子效果品质（ L. / H. / M. ）        Low 低 / High 高 / Medium 中
+
+Smooth Lighting 平滑光照（ L. / O. / H. ）            Low 最小 / OFF 关 / High 最大
+Biome Blend 生物群系过渡距离（ 0 ~ 7 ）            1 block(s) —— 1 个方块 ~ 7 block(s) —— 7 个方块，0 = None 关
+Entity Distance 实体渲染距离（ 50% ~ 500% ）            无需翻译 :]
+Entity Shadows 实体阴影（ 复选框：填充 / 未填充 ）        填充 ( 开 ) / 未填充 ( 关 )
+Vignette 晕影（ 复选框：填充 / 未填充 ）            填充 ( 开 ) / 未填充 ( 关 )
+————————————————————————————————————————————————
+Mimap Levels —— Mimap 级别（ 0 ~ 4 ）            0 x —— 关 / 1 x —— 最小平滑 / 4 x —— 最大平滑
+======================================================================
+General 常规        Quality 品质            [ Advanced 高级 ]
+————————————————————————————————————————————————
+Chunk Renderer 区块渲染器（ GL 2.0 / GL 3.0 / GL 4.3 ~ ）            不会翻译 :(
+————————————————————————————————————————————————
+Use Chunk Face Culling 仅渲染可见区块面（ 复选框：填充 / 未填充 ）        填充 ( 开 ) / 未填充 ( 关 )
+（或）Use Chunk Face Culling 区块渲染优化
+
+Use Compact Vertex Format 使用压缩顶点格式（ 复选框：填充 / 未填充 ）    填充 ( 开 ) / 未填充 ( 关 )
+Use Fog Occlusion 迷雾（ 复选框：填充 / 未填充 ）            填充 ( 开 ) / 未填充 ( 关 )
+
+Use Entity Culling 仅渲染可见实体（ 复选框：填充 / 未填充 ）        填充 ( 开 ) / 未填充 ( 关 )
+（或）Use Entity Culling 实体渲染优化
+
+Use Particle Culling 仅渲染可见颗粒效果（ 复选框：填充 / 未填充 ）        填充 ( 开 ) / 未填充 ( 关 )
+（或）Use Entity Culling 颗粒渲染优化
+
+Animate Only Vistable Texture 仅渲染可见动态材质（ 复选框：填充 / 未填充 ）    填充 ( 开 ) / 未填充 ( 关 )
+（或）Animate Only Vistable Texture 材质渲染优化
+————————————————————————————————————————————————
+Use Memory Intrinsics 使用特殊的内部函数（ 复选框：填充 / 未填充 ）    填充 ( 开 ) / 未填充 ( 关 )
+————————————————————————————————————————————————
+Disable Driver Blacklist 禁用驱动程序黑名单（ 复选框：填充 / 未填充 ）    填充 ( 开 ) / 未填充 ( 关 )
+======================================================================
+如有错误 恳请指出！！
